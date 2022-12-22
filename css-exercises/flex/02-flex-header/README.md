@@ -11,6 +11,7 @@ wide:
 ![wide](./desired-outcome-wide.png)
 
 ### Self Check
+
 - There is space between all items and the edge of the header (specific px amount doesn't matter here).
 - Logo is centered vertically and horizontally.
 - list-items are horizontal, and are centered vertically inside the header.
